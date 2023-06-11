@@ -97,7 +97,7 @@ button {
     top: 321px;
     
     background: #273549;
-    border-radius: 4.68077px 0px 0px 0px;
+    border-radius: 5px;
 }
 
 #lengthLabel {
@@ -144,7 +144,7 @@ button {
     top: 453px;
     
     background: #273549;
-    border-radius: 4.68077px 0px 0px 0px;
+    border-radius: 5px;
 }
 
 #volumeLabel {
@@ -191,7 +191,7 @@ button {
     top: 585px;
     
     background: #273549;
-    border-radius: 4.68077px 0px 0px 0px;
+    border-radius: 5px;
 }
 
 #massLabel {
